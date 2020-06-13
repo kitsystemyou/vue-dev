@@ -39,6 +39,11 @@
 
     <v-content>
       <HelloWorld/>
+	<v-card>
+	<v-card-title>
+	try v card
+	</v-card-title>
+	</v-card> 
     </v-content>
   </v-app>
 </template>
